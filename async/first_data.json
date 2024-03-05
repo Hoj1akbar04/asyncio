@@ -1,0 +1,39 @@
+{
+  "users":
+          [
+            {
+              "first_name": "Akbar",
+              "last_name": "Sobirov",
+              "username": "akbar22",
+              "birth_date": "2003-12-11"
+            },
+
+            {
+              "first_name": "Jasur",
+              "last_name": "Alimov",
+              "username": "jasur1",
+              "birth_date": "2002-10-21"
+            },
+
+            {
+              "first_name": "Doniyor",
+              "last_name": "Zohidov",
+              "username": "Doni111",
+              "birth_date": "2000-12-19"
+            },
+
+            {
+              "first_name": "Laziz",
+              "last_name": "Hoshimov",
+              "username": "laziz33",
+              "birth_date": "2002-05-11"
+            },
+
+            {
+              "first_name": "Kamol",
+              "last_name": "Latipov",
+              "username": "kamol111",
+              "birth_date": "2005-08-15"
+            }
+          ]
+}
